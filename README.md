@@ -14,7 +14,7 @@ This project is a web-based music sequencer that allows users to create and mana
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/web-music-sequencer.git
+    git clone https://github.com/yourusername/web-sequencer.git
     cd web-music-sequencer
     ```
 
